@@ -104,8 +104,6 @@ set(LIBRARY_SRCS
   libraries/RainMaker/src/RMakerQR.cpp
   libraries/RainMaker/src/RMakerUtils.cpp
   libraries/RainMaker/src/AppInsights.cpp
-  libraries/SD_MMC/src/SD_MMC.cpp
-  libraries/SD/src/SD.cpp
   libraries/SD/src/sd_diskio.cpp
   libraries/SD/src/sd_diskio_crc.c
   libraries/SimpleBLE/src/SimpleBLE.cpp
@@ -196,8 +194,6 @@ set(includedirs
   libraries/NetBIOS/src
   libraries/Preferences/src
   libraries/RainMaker/src
-  libraries/SD_MMC/src
-  libraries/SD/src
   libraries/SimpleBLE/src
   libraries/SPIFFS/src
   libraries/SPI/src
